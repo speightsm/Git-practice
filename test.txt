@@ -1,0 +1,13 @@
+new-item test.txt # creates new item on windows
+touch test.txt # creates new item on linux
+ctrl-s # saves!!!!!!!!!!!!!!!!!!!!!!!!!!
+CTRL-Z # UNDO
+ctrl-c # copy
+ctrl-v # paste
+ctrl -a # highlight everyone
+
+-- add -- commit -- pull -- push --
+
+Git is used for version control!
+Git is important for your future work experience!
+
